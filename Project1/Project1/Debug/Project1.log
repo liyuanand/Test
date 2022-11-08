@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(E:\kk\编程语言学习\c++学习\Project1\Debug\Project1.exe) does not match the Linker's OutputFile property value (E:\kk\编程语言学习\c++学习\Project1\Debug). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1191,5): warning MSB8012: TargetName(Project1) does not match the Linker's OutputFile property value (Debug). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+LINK : fatal error LNK1104: 无法打开文件“E:\kk\编程语言学习\c++学习\Project1\Debug”
